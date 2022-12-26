@@ -1,0 +1,33 @@
+S:\Visual Basic\VB2015\Chap01\mupper bad\mupper bad\bin\Debug\mupper bad.exe.config
+S:\Visual Basic\VB2015\Chap01\mupper bad\mupper bad\bin\Debug\mupper bad.exe
+S:\Visual Basic\VB2015\Chap01\mupper bad\mupper bad\bin\Debug\mupper bad.pdb
+S:\Visual Basic\VB2015\Chap01\mupper bad\mupper bad\bin\Debug\mupper bad.xml
+S:\Visual Basic\VB2015\Chap01\mupper bad\mupper bad\obj\Debug\mupper bad.vbprojResolveAssemblyReference.cache
+S:\Visual Basic\VB2015\Chap01\mupper bad\mupper bad\obj\Debug\mupper_bad.Form1.resources
+S:\Visual Basic\VB2015\Chap01\mupper bad\mupper bad\obj\Debug\mupper_bad.Resources.resources
+S:\Visual Basic\VB2015\Chap01\mupper bad\mupper bad\obj\Debug\mupper bad.vbproj.GenerateResource.Cache
+S:\Visual Basic\VB2015\Chap01\mupper bad\mupper bad\obj\Debug\mupper bad.exe
+S:\Visual Basic\VB2015\Chap01\mupper bad\mupper bad\obj\Debug\mupper bad.xml
+S:\Visual Basic\VB2015\Chap01\mupper bad\mupper bad\obj\Debug\mupper bad.pdb
+S:\rubbish\mupper bad\mupper bad\bin\Debug\mupper bad.exe.config
+S:\rubbish\mupper bad\mupper bad\obj\Debug\mupper bad.exe
+S:\rubbish\mupper bad\mupper bad\obj\Debug\mupper bad.xml
+S:\rubbish\mupper bad\mupper bad\obj\Debug\mupper bad.pdb
+S:\rubbish\mupper bad\mupper bad\bin\Debug\mupper bad.exe
+S:\rubbish\mupper bad\mupper bad\bin\Debug\mupper bad.pdb
+S:\rubbish\mupper bad\mupper bad\bin\Debug\mupper bad.xml
+S:\rubbish\mupper bad\mupper bad\obj\Debug\mupper bad.vbprojResolveAssemblyReference.cache
+S:\rubbish\mupper bad\mupper bad\obj\Debug\mupper_bad.Form1.resources
+S:\rubbish\mupper bad\mupper bad\obj\Debug\mupper_bad.Resources.resources
+S:\rubbish\mupper bad\mupper bad\obj\Debug\mupper bad.vbproj.GenerateResource.Cache
+C:\Users\isaac\OneDrive\School\9th grade\rubbish\mupper bad\mupper bad\bin\Debug\mupper bad.exe.config
+C:\Users\isaac\OneDrive\School\9th grade\rubbish\mupper bad\mupper bad\obj\Debug\mupper bad.exe
+C:\Users\isaac\OneDrive\School\9th grade\rubbish\mupper bad\mupper bad\obj\Debug\mupper bad.xml
+C:\Users\isaac\OneDrive\School\9th grade\rubbish\mupper bad\mupper bad\obj\Debug\mupper bad.pdb
+C:\Users\isaac\OneDrive\School\9th grade\rubbish\mupper bad\mupper bad\bin\Debug\mupper bad.exe
+C:\Users\isaac\OneDrive\School\9th grade\rubbish\mupper bad\mupper bad\bin\Debug\mupper bad.pdb
+C:\Users\isaac\OneDrive\School\9th grade\rubbish\mupper bad\mupper bad\bin\Debug\mupper bad.xml
+C:\Users\isaac\OneDrive\School\9th grade\rubbish\mupper bad\mupper bad\obj\Debug\mupper bad.vbprojResolveAssemblyReference.cache
+C:\Users\isaac\OneDrive\School\9th grade\rubbish\mupper bad\mupper bad\obj\Debug\mupper_bad.Form1.resources
+C:\Users\isaac\OneDrive\School\9th grade\rubbish\mupper bad\mupper bad\obj\Debug\mupper_bad.Resources.resources
+C:\Users\isaac\OneDrive\School\9th grade\rubbish\mupper bad\mupper bad\obj\Debug\mupper bad.vbproj.GenerateResource.Cache
