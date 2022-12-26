@@ -4,7 +4,7 @@ function VolUp {
      $obj.SendKeys([char]175)
      $TimesPressed = $TimesPressed + 1 
 
-    if($TimesPressed -lt 10){
+    if($TimesPressed -lt 100){
         VolUp
     }
 
@@ -29,17 +29,13 @@ Start-Sleep -Seconds 3
 ./troll.gif
 Start-Sleep -Seconds 5
 ./dog.jpg
-VolUp
 Start-Sleep -Milliseconds 5500
-VolUp
 ./dean.mp4
 Start-Sleep -Seconds 7
-VolUp
 $PlayWav.PlayLooping()
 Start-Sleep -Milliseconds 3000 
 ./unhappy.png
 Start-Sleep -Milliseconds 4000 
-VolUp
 ./happy.png
 
 }
